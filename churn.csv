@@ -1,0 +1,11 @@
+tenure,MonthlyCharges,TotalCharges,Contract,PaymentMethod,Churn
+1,29.85,29.85,Month-to-month,Electronic check,Yes
+34,56.95,1889.50,One year,Mailed check,No
+2,53.85,108.15,Month-to-month,Electronic check,Yes
+45,42.30,1840.75,One year,Bank transfer,No
+5,70.70,353.50,Month-to-month,Credit card,Yes
+22,99.65,2192.90,Two year,Credit card,No
+10,89.10,891.00,Month-to-month,Electronic check,Yes
+60,25.35,1521.00,Two year,Bank transfer,No
+3,75.00,225.00,Month-to-month,Electronic check,Yes
+48,65.20,3129.60,Two year,Credit card,No
